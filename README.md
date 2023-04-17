@@ -17,8 +17,8 @@
 - 검색 기능 
 - 사용자별 상세조회 기능 [SEARCH](https://www.lolhepler.com/user/viper3) 
 - 랭킹 차트 기능 [RANK](https://www.lolhepler.com/rank)
-- 사용자 접속 정보 수집 Google Analytics
-- 사용자 이벤트 정보 수집 Amplitude (게임 이용자 조회 기록)
+- ~사용자 접속 정보 수집 Google Analytics~
+- ~사용자 이벤트 정보 수집 Amplitude (게임 이용자 조회 기록)~
 
 ## 데이터 수집
 **challengerleagues_queue.py**  
