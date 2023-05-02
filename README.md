@@ -11,7 +11,6 @@
   
 ### 개요
 [Riot API](https://developer.riotgames.com/apis) 로부터 데이터를 수집하여 대시보드로 통계화. 데이터 수집은 Airflow를 사용하여 24시간, 1시간 주기로 데이터를 수집.  
-[LOL hepler](https://www.lolhepler.com/) 에 접속하여 시각화 확인 가능.
 
 ### 웹 기능
 - 검색 기능 
