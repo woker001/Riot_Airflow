@@ -27,3 +27,5 @@
 
 ## 데이터 시각화
 ![](image/web.png)
+![](image/lol2.png)
+![](image/lol3.png)
